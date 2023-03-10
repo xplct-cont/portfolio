@@ -127,7 +127,7 @@
  }
 
  .home-img img {
-   width: 80%;
+   width: 100%;
    margin-top: 20px;
  }
 
@@ -281,16 +281,16 @@
    width: 80%;
  }
 
- .spatie-bar{
-  width: 75%;
- }
- 
- .bootstrap-bar{
-  width: 85%;
+ .spatie-bar {
+   width: 75%;
  }
 
- .mysql-bar{
-  width: 80%;
+ .bootstrap-bar {
+   width: 85%;
+ }
+
+ .mysql-bar {
+   width: 80%;
  }
 
  .services-content {

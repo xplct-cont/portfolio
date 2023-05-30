@@ -343,7 +343,7 @@
    text-align: center;
    border-radius: 0.5rem;
    border-bottom: 2px solid white;
-   box-shadow: white;
+   box-shadow: 50px 50px 50px 50px rgba(0, 0, 0, 0.1);
  }
 
  .services-box:hover {
